@@ -1,4 +1,4 @@
-# DPC
+# DPC-Net
 Implementation of Dual Prototypes Contrastive Learning for Semi-supervised Medical Image Segmentation
 ### 1. Environment
 
